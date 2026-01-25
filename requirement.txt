@@ -1,3 +1,6 @@
 pandas
 ipykernel
 jupyter
+seaborn
+scikit-learn
+fastparquet
